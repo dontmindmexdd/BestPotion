@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local agent / assistant files
+AGENTS.md
+CLAUDE.md
+.claude/
+.gemini/
+.cursor/
+.codex/
